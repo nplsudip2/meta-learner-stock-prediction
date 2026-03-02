@@ -1,0 +1,11 @@
+# Install Libraries and Dependencies
+# Run "pip install -r requirements.txt" to install from the requirement files.
+
+numpy
+pandas
+yfinance
+matplotlib
+seaborn
+sklearn
+xgboost
+tensorflow
